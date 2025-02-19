@@ -39,15 +39,5 @@ python steganography.py
 - **Cloud-based secure encoding & decoding**
 - **Integration with blockchain for tamper-proof security**
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
-## 🤝 Contribution
-Contributions are welcome! Feel free to **fork the repo**, create a branch, and submit a pull request.
-
-## 📧 Contact
-For any inquiries, reach out via [Your Email] or open an issue on GitHub.
-
----
-⚡ **Secure Your Messages, Stay Anonymous!** ⚡
 
